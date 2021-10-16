@@ -1,0 +1,14 @@
+:root {
+ --brightBlue: hsl(229, 80%, 48%);
+  }
+
+  footer {
+    width: 100%;
+    position: fixed;
+    font-size: 1.1rem;
+    text-align: center;
+    bottom: 1em;
+  }
+  .attribution a {
+    color: var(--brightBlue);
+  }
